@@ -1,8 +1,13 @@
+body.hidden
+{
+  display: none;
+}
+
 body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: purple;
   padding: 15px;
 }
 header ul {
@@ -29,13 +34,13 @@ header p {
 }
 button {
   padding: 15px;
-  background-color: #373738;
+  background-color: purple;
   color: white;
   font-size: 15px;
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: purple;
   padding: 5px;
   color: white;
 }
